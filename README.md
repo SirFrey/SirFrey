@@ -14,7 +14,7 @@
 
 
 ### :fire: My Stats :
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=SirFrey&theme=monokai&hide_border=true&mode=weekly)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SirFrey&theme=monokai&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ## Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/moisesln)
