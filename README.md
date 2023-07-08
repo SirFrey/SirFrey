@@ -16,8 +16,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=SirFrey&theme=monokai&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ## Contacts
-
-- [LinkedIn](https://www.linkedin.com/in/moisesln)
-- SirFrey#4712 ***(Discord)***
 - moisescastellanos12312@gmail.com
-- +58 424-205-7621
