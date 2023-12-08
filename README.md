@@ -13,7 +13,7 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,webpack,vite,vercel)](https://skillicons.dev)
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=SirFrey&theme=monokai&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ## Contacts
 - moisescastellanos12312@gmail.com
