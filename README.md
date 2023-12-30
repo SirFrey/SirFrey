@@ -1,7 +1,8 @@
+# Moises Castellanos
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br/>
-  <span>Hey There! 👋</span>
 </div>
 
 
@@ -13,7 +14,7 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,webpack,vite,vercel)](https://skillicons.dev)
 
 
-### 🔥 My Stats :
+## Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SirFrey&theme=monokai&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-## Contacts
+## Get in touch:
 - moisescastellanos12312@gmail.com
