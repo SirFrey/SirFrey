@@ -7,11 +7,14 @@
 
 
 
- 👋 What's up bro? I’m <strong>${\color{#48e}Moises }$</strong>.
-  I'm **Frontend Web Developer** and I'm interest in the economy and gastronomy,  I'm looking for projects I'm able to participate to adquire experience and to live of I love, the programming <3.<br/>
-🛠️ Languages and Tools:
+### 👋 What's up bro? I’m <strong>${\color{#48e}Moises }$</strong>.
+I'm **Frontend Web Developer** and I'm interest in the economy and gastronomy,  I'm looking for projects I'm able to participate to adquire experience and to live of I love, the programming <3.<br/>
+### 🛠️ Things:
+  - I love play videogames.
+  - I do Websites with React, it's cool.
+  - I've make some backend too 😂. 
+  - I like C# and Java.
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,webpack,vite,vercel)](https://skillicons.dev)
 
 
 ## Stats:
